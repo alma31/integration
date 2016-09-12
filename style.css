@@ -1,0 +1,56 @@
+body {
+
+	background-color:#3F4B3B;
+}
+
+.header {
+
+	text-align: center;
+	background-color: #d6ecfa;
+	height: 200px;
+	border-radius: 10px;
+
+
+}
+
+img {
+
+	float: left;
+	border-radius: 10px;
+}
+
+.texte {
+
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 18px;
+
+}
+
+footer {
+
+	background-color: #dae9f4;
+	border-radius: 10px;
+	height: 100px;
+	opacity: 0.7;
+}
+
+header li {
+
+	list-style: none;
+	display: inline-block;
+	padding-right: 10%;
+	margin-top: 4%;
+
+}
+
+footer p {
+
+	text-align: center;
+}
+
+.logo {
+
+	float: right;
+}
